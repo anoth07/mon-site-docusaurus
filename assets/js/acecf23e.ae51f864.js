@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmon_site_docusaurus=self.webpackChunkmon_site_docusaurus||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/mon-site-docusaurus/blog","blogTitle":"Blog","authorsListPath":"/mon-site-docusaurus/blog/authors"}')}}]);
